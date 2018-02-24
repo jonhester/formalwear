@@ -1,7 +1,7 @@
 {
   "name": "formalwear",
   "version": "0.0.0",
-  "description": "",
+  "description": "Formal wear to dress up your react form fields in. It makes validation and binding a cinch.",
   "main": "lib/index.js",
   "module": "es/index.js",
   "jsnext:main": "es/index.js",
